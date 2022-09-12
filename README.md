@@ -1,1 +1,1 @@
-# R_exercises
+This set of exercises have been built for the purpose of practice. The exercises come from various sources such as books, online courses, and et cetera. Feel free to work on the exercises to improve your R programming skills. 
