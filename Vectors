@@ -25,3 +25,4 @@ d. Use only (b) and (c) to reconstruct (a).
 e. Overwrite (a) with the same values sorted from smallest to largest.
 f. Use the colon operator as an index vector to reverse the order of (e), and confirm this is identical to using sort on (e) with decreasing=TRUE.
 g. Create a vector from (c) that repeats the third element of (c) three times, the sixth element four times, and the last element once.
+h. Create a new vector as a copy of (e) by assigning (e) as is to a newly named object. Using this new copy of (e), overwrite the first, the fifth to the seventh (inclusive), and the last element with the values 99 to 95 (inclusive), respectively.
