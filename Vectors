@@ -7,9 +7,21 @@ repeated 10 times, and store the result. Display the result sorted
 from largest to smallest.
 d. Create and store a vector that contains, in any configuration, the
 following:
-i. A sequence of integers from 6 to 12 (inclusive)
-ii. A threefold repetition of the value 5.3
-iii. The number −3
-iv. A sequence of nine values starting at 102 and ending at the
+1. A sequence of integers from 6 to 12 (inclusive)
+2. A threefold repetition of the value 5.3
+3. The number −3
+4. A sequence of nine values starting at 102 and ending at the
 number that is the total length of the vector created in (c)
 e. Confirm that the length of the vector created in (d) is 20.
+
+Exercises:
+a. Create and store a vector that contains the following, in this order:
+1. A sequence of length 5 from 3 to 6 (inclusive)
+2. A twofold repetition of the vector c(2,-5.1,-33)
+3. The value 7/42 + 2
+b. Extract the first and last elements of your vector from (a), storing them as a new object.
+c. Store as a third object the values returned by omitting the first and last values of your vector from (a).
+d. Use only (b) and (c) to reconstruct (a).
+e. Overwrite (a) with the same values sorted from smallest to largest.
+f. Use the colon operator as an index vector to reverse the order of (e), and confirm this is identical to using sort on (e) with decreasing=TRUE.
+g. Create a vector from (c) that repeats the third element of (c) three times, the sixth element four times, and the last element once.
