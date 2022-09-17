@@ -1,0 +1,13 @@
+Exercse Set 1:
+a. Re-create exactly the following output:
+"The quick brown fox
+jumped over
+the lazy dogs"
+
+b. Suppose you’ve stored the values num1 <- 4 and num2 <- 0.75. Write a line of R code that returns the following string:
+[1] "The result of multiplying 4 by 0.75 is 3"
+Make sure your code produces a string with the correct multiplication result for any two numbers stored as num1 and num2.
+
+c. Store the string "Two 6-packs for $12.99". Then do the following:
+i. Use a check for equality to confirm that the substring beginning with character 5 and ending with character 10 is "6-pack".
+ii. Make it a better deal by changing the price to $10.99
