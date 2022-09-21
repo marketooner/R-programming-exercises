@@ -1,6 +1,8 @@
 Exercise Set 1:
-a. Create a list that contains, in this order, a sequence of 20 evenly spaced numbers between −4 and 4; a 3 × 3 matrix of the logical vector c(F,T,T,T,F,T,T,F,F) filled column-wise; a character vector with the two strings "don" and "quixote"; and a factor vector containing the observations 
-c("LOW","MED","LOW","MED","MED","HIGH"). Then, do the following:
+a. Create a list that contains, in this order, a sequence of 20 evenly spaced numbers between −4 and 4; a 3 × 3 matrix of the logical vector c(F,T,T,T,F,T,T,F,F) 
+filled column-wise; a character vector with the two strings "don" and "quixote"; and a factor vector containing the observations c("LOW","MED","LOW","MED","MED","HIGH").
+Then, do the following:
+
 i. Extract row elements 2 and 1 of columns 2 and 3, in that order, of the logical matrix.
 ii. Use sub to overwrite "quixote" with "Quixote" and "don" with "Don" inside the list. Then, using the newly overwritten list member, concatenate to the console 
     screen the following statement exactly: 
