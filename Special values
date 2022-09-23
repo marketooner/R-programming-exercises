@@ -1,5 +1,4 @@
 Exercise Set 1:
-
 a. Store the following vector:
 foo <- c(13563,-14156,-14319,16981,12921,11979,9568,8833,-12968, 8133). Then, do the following:
 i. Output all elements of foo that, when raised to a power of 75, are NOT infinite.
@@ -20,7 +19,6 @@ Note: You may consider the "arr.ind" argument in the "which" function with the a
 
 
 Exercise Set 2:
-
 a. Consider the following line of code: foo <- c(4.3,2.2,NULL,2.4,NaN,3.3,3.1,NULL,3.4,NA). Decide yourself which of the following statements are true and which
 are false and then use R to confirm:
 i. The length of foo is 8.
